@@ -1,1 +1,52 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nguyen Van An",
+      "email": "an.nguyen@st.ueh.edu.vn",
+      "desc": "Sinh vien nam 3 nganh Cong nghe thong tin kinh doanh tai UEH. Dang tap trung vao phat trien ung dung Android va phan tich du lieu. Tung tham gia hai cuoc thi hoc thuat cap truong.",
+      "avatar_url": "https://i.pravatar.cc/400?img=12",
+      "hobby": "Lap trinh Android, Choi ghi ta, Chay bo, Doc sach cong nghe"
+    },
+    {
+      "id": 2,
+      "username": "Tran Thi Binh",
+      "email": "binh.tran@st.ueh.edu.vn",
+      "desc": "Sinh vien nganh Kinh doanh quoc te, yeu thich thiet ke giao dien va trai nghiem nguoi dung. Dang hoc them Figma va nghien cuu ve he thong thiet ke.",
+      "avatar_url": "https://i.pravatar.cc/400?img=45",
+      "hobby": "Thiet ke UI, Ve tranh, Nau an, Du lich"
+    },
+    {
+      "id": 3,
+      "username": "Le Hoang Cuong",
+      "email": "cuong.le@st.ueh.edu.vn",
+      "desc": "Thanh vien cau lac bo hoc thuat, chuyen ve co so du lieu va he thong backend. Da hoan thanh du an quan ly phong kham bang C# WinForms va SQL Server.",
+      "avatar_url": "https://i.pravatar.cc/400?img=33",
+      "hobby": "Co vua, Bong ro, Xem phim tai lieu"
+    },
+    {
+      "id": 4,
+      "username": "Pham Thi Dung",
+      "email": "dung.pham@st.ueh.edu.vn",
+      "desc": "Quan tam den linh vuc du lieu lon va hoc may. Dang thuc hien do an ve phan tich anh ve tinh bang Google Earth Engine.",
+      "avatar_url": "https://i.pravatar.cc/400?img=47",
+      "hobby": "Phan tich du lieu, Nhiep anh, Trong cay, Yoga"
+    },
+    {
+      "id": 5,
+      "username": "Vo Minh Em",
+      "email": "em.vo@st.ueh.edu.vn",
+      "desc": "Sinh vien nam 2, moi bat dau hoc lap trinh di dong. Thich tim hieu ve bao mat ung dung va kiem thu phan mem.",
+      "avatar_url": "https://i.pravatar.cc/400?img=52",
+      "hobby": "Bao mat, Choi game, Xe dap"
+    },
+    {
+      "id": 6,
+      "username": "Dang Ngoc Hoa",
+      "email": "hoa.dang@st.ueh.edu.vn",
+      "desc": "Truong nhom du an nghien cuu khoa hoc cap truong. Co kinh nghiem viet bao cao va trinh bay truoc hoi dong. Thanh thao Excel va Power BI.",
+      "avatar_url": "https://i.pravatar.cc/400?img=26",
+      "hobby": "Thuyet trinh, Viet lach, Boi loi, Cafe sang"
+    }
+  ]
+}
